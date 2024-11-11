@@ -1,0 +1,11 @@
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\bin\Debug\net8.0\Shapes3D.deps.json
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\bin\Debug\net8.0\Shapes3D.dll
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\bin\Debug\net8.0\Shapes3D.pdb
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\Shapes3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\Shapes3D.AssemblyInfoInputs.cache
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\Shapes3D.AssemblyInfo.cs
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\Shapes3D.csproj.CoreCompileInputs.cache
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\Shapes3D.dll
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\refint\Shapes3D.dll
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\Shapes3D.pdb
+C:\Users\johns\Documents\3dShapesProject\3DShapesProject\Shapes3D\obj\Debug\net8.0\ref\Shapes3D.dll
